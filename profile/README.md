@@ -53,8 +53,8 @@ Here are the current employers at E3lanotopia:
   - GitHub: [@seifmahmoud44](https://github.com/seifmahmoud44)
   - Empowerment Field: FrontEnd
  - **Amr Ahmed El-Mahalawy**
-  - GitHub: [@amrelmahalawy](https://github.com/amrelmahalawy)
-  - Empowerment Field: Game Developer - AR - VR
+    - GitHub: [@amrelmahalawy](https://github.com/amrelmahalawy)
+    - Empowerment Field: Game Developer - AR - VR
     
 ## How to Get in Touch
 
