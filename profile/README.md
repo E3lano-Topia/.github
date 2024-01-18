@@ -34,6 +34,29 @@ E3lanotopia excels in crafting mobile applications for both iOS and Android plat
 
 Our API development services enable seamless integration and communication between different software applications. E3lanotopia ensures robust and scalable APIs tailored to your requirements.
 
+## Employers
+
+Here are the current employers at E3lanotopia:
+
+- **Abdelrahman Nasr**
+  - GitHub: [@Cat9199](https://github.com/Cat9199)
+  - Empowerment Field: BackEnd - Ai - VR - AR - Mobile App
+- **Nader Yasser**
+  - GitHub: [@naderyasser](https://github.com/naderyasser)
+  - Empowerment Field: AR - VR - Game Developer - Malware analysis 
+
+- **Mahmoud Masoud**
+  - GitHub: [@MaMasoud](https://github.com/MaMasoud)
+  - Empowerment Field: FrontEnd - AI - UI/UX - Game Developer
+
+- **Seif Mahmoud**
+  - GitHub: [@seifmahmoud44](https://github.com/seifmahmoud44)
+  - Empowerment Field: FrontEnd
+ 
+ - **Amr Ahmed El-Mahalawy**
+  - GitHub: [@amrelmahalawy](https://github.com/amrelmahalawy)
+  - Empowerment Field: Game Developer - AR - VR
+    
 ## How to Get in Touch
 
 For inquiries and questions, feel free to contact us:
