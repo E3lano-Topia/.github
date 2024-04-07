@@ -43,18 +43,17 @@ Here are the current employers at E3lanotopia:
   - Empowerment Field: BackEnd - Ai - VR - AR - Mobile App
 - **Nader Yasser**
   - GitHub: [@naderyasser](https://github.com/naderyasser)
-  - Empowerment Field: AR - VR - Game Developer - Malware analysis 
+  - Empowerment Field: AR - VR - Malware analysis 
 
 - **Mahmoud Masoud**
   - GitHub: [@MaMasoud](https://github.com/MaMasoud)
-  - Empowerment Field: FrontEnd - AI - UI/UX - Game Developer
-
+  - Empowerment Field: FrontEnd - AI - UI/UX 
 - **Seif Mahmoud**
   - GitHub: [@seifmahmoud44](https://github.com/seifmahmoud44)
   - Empowerment Field: FrontEnd
  - **Amr Ahmed El-Mahalawy**
     - GitHub: [@amrelmahalawy](https://github.com/amrelmahalawy)
-    - Empowerment Field: Game Developer - AR - VR
+    - Empowerment Field: Game Developer - AR - VR - UI/UX - Project Management
     
 ## How to Get in Touch
 
